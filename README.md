@@ -1,3 +1,5 @@
+![Add a heading](https://github.com/user-attachments/assets/b04212c9-1f46-4210-a894-34783f27c843)
+
 <h1 align="center">Hi, I'm Vanessa Sandra 👋🏾</h1>
 <p align="center">
   💡 Data Science Student • 🔍 Insight Hunter • 💻 Passionate about storytelling through data
@@ -28,7 +30,7 @@ I'm currently building a strong portfolio through real-world projects — from e
 Scraped and analyzed over 350 product reviews from Jumia Kenya using BeautifulSoup. Cleaned the data, ran sentiment analysis, and visualized consumer insights using Tableau.
 
 🎬 *[What Makes a Cult Classic?](https://github.com/Assesa44/what_makes_a_cult_classic)*  
-Explored cast, genre, and review data to understand patterns behind cult movie popularity. Includes EDA, feature engineering, and thoughtful storytelling.
+Explored cast and genre, and review data to understand patterns behind cult movie popularity. Includes EDA, feature engineering, and thoughtful storytelling.
 
 ---
 
