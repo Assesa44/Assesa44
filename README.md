@@ -29,7 +29,7 @@ I'm currently building a strong portfolio through real-world projects, from e-co
 📦 *[Kenya E-commerce Reviews](https://github.com/Assesa44/Kenya-Eccomerce-Reviews)*  
 Scraped and analyzed over 350 product reviews from Jumia Kenya using BeautifulSoup. Cleaned the data, ran sentiment analysis, and visualized consumer insights using Tableau.
 
-🎬 *[Tanzania_Well_Functionality_Prediction](https://github.com/Assesa44/Tanzania-Wells-Functionality-Prediction.git)*  
+💧 *[Tanzania_Well_Functionality_Prediction](https://github.com/Assesa44/Tanzania-Wells-Functionality-Prediction.git)*  
 Built a classificaton model to predict whetherf a water point (well) is functional, not functional or needs repair. Includes EDA, feature engineering, and thoughtful storytelling.
 
 ---
