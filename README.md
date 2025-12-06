@@ -32,7 +32,7 @@ I'm currently building a strong portfolio through real-world projects, from e-co
 - Cleaned the data, ran sentiment analysis, and visualized consumer insights using Power BI.
 
 💧 *[Tanzania_Well_Functionality_Prediction](https://github.com/Assesa44/Tanzania-Wells-Functionality-Prediction.git)*  
--Built a classificaton model to predict whether a water point (well) is functional, not functional or needs repair. 
+- Built a classificaton model to predict whether a water point (well) is functional, not functional or needs repair. 
 - Includes EDA, feature engineering, and thoughtful storytelling.
 - Visualized key drivers of well failure for actionable insights.
 
