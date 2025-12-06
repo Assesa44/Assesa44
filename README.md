@@ -17,11 +17,11 @@ I'm currently building a strong portfolio through real-world projects, from e-co
 
 ### 🧠 Skills & Tools
 
-*Languages & Libraries:* Python (Pandas, NumPy, BeautifulSoup, TextBlob, Seaborn, Matplotlib), SQL
-*Data Visualization:* Tableau, Power BI, Matplotlib, Seaborn
-*Machine Learning & Analysis:* Classification, Predictive Modeling, Clustering, Sentiment Analysis, Exploratory Data Analysis
-*Other Tools:* Git, GitHub, Jupyter Notebook, Streamlit
-*Portfolio-Ready Strengths:* Data storytelling, reproducible workflows, actionable insights, cross-functional collaboration
+- *Languages & Libraries:* Python (Pandas, NumPy, BeautifulSoup, TextBlob, Seaborn, Matplotlib), SQL
+- *Data Visualization:* Tableau, Power BI, Matplotlib, Seaborn
+- *Machine Learning & Analysis:* Classification, Predictive Modeling, Clustering, Sentiment Analysis, Exploratory Data Analysis
+- *Other Tools:* Git, GitHub, Jupyter Notebook, Streamlit
+- *Portfolio-Ready Strengths:* Data storytelling, reproducible workflows, actionable insights, cross-functional collaboration
 
 ---
 
